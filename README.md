@@ -1,1 +1,1 @@
-# it-academy-JS-automation-testing
+# JavaScript rules the world!
