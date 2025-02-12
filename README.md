@@ -1,1 +1,1 @@
-# it-academy-JS-automation-testing
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit.
