@@ -1,1 +1,1 @@
-# it-academy-JS-automation-testing
+# I like automation testing!
